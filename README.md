@@ -31,6 +31,6 @@ yarn dev
 ## My links
 
 > [robinvriens.com](https://www.robinvriens.com) &nbsp;&middot;&nbsp;
-> YouTube [Robin Vriens](https://github.com/robinvriens) &nbsp;&middot;&nbsp;
-> GitHub [@robinvriens](https://www.youtube.com/channel/UCKGvKmXpUJOOaEpfhWgjELg) &nbsp;&middot;&nbsp;
+> YouTube [Robin Vriens](https://www.youtube.com/channel/UCKGvKmXpUJOOaEpfhWgjELg) &nbsp;&middot;&nbsp;
+> GitHub [@robinvriens](https://github.com/robinvriens) &nbsp;&middot;&nbsp;
 > Instagram [@robinvriens](https://instagram.com/robinvriens)
